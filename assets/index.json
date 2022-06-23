@@ -1,0 +1,6 @@
+{
+    "update": "2022-04-10",
+    "boards": {
+        "rockpi4b": "https://github.com/radxa-os/installer/raw/main/assets/rockpi4b.json"
+    }
+}

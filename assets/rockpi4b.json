@@ -1,0 +1,32 @@
+{
+    "update": "2022-04-10",
+    "images": [
+        {
+            "name": "Debian Buster Xfce4 Arm64",
+            "dl_url": "https://github.com/radxa-build/rockpi-4b/releases/download/main-df04b3af/rockpi-4b-debian-buster-xfce4-arm64-20220401-0335-gpt.img.xz",
+            "dl_size": 665201500,
+            "raw_size": 3000000000,
+            "md5sum": "aa179b3eac59fbaa0cc69b1485657faa",
+            "timestamp": 1646139357,
+            "uboot": "rockpi4b-uboot-trust-spi_2017.09-2697-ge41695afe3_20201219.img"
+        },
+        {
+            "name": "Ubuntu Focal Server Arm64",
+            "dl_url": "https://github.com/radxa-build/rockpi-4b/releases/download/main-df04b3af/rockpi-4b-ubuntu-focal-server-arm64-20220401-0346-gpt.img.xz",
+            "dl_size": 276358188,
+            "raw_size": 2000000000,
+            "md5sum": "eae494e2d84808bb52b319f2668719f5",
+            "timestamp": 1646139357,
+            "uboot": "rockpi4b-uboot-trust-spi_2017.09-2697-ge41695afe3_20201219.img"
+        }
+    ],
+    "uboot": [
+        {
+            "name": "rockpi4b-uboot-trust-spi_2017.09-2697-ge41695afe3_20201219.img",
+            "dl_url": "https://dl.radxa.com/rockpi4/images/loader/spi/rockpi4b-uboot-trust-spi_2017.09-2697-ge41695afe3_20201219.img",
+            "dl_size": 297294,
+            "md5sum": "38532284d75e614eda2be598e914bacd",
+            "timestamp": 1646139357
+        }
+    ]
+}
