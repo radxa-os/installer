@@ -1,0 +1,32 @@
+{
+    "update": "2022-06-01",
+    "images": [
+        {
+            "name": "Debian Buster Xfce4 Arm64",
+            "dl_url": "https://github.com/radxa-build/rock-3a/releases/download/20220601-0923/rock-3a-debian-buster-xfce4-arm64-20220601-1116-gpt.img.xz",
+            "dl_size": 736880748,
+            "raw_size": 3000000000,
+            "md5sum": "942e2712698e7810b575a27727f1f901",
+            "timestamp": 1646139357,
+            "uboot": "rk356x_spi_image_20220210.img"
+        },
+        {
+            "name": "Ubuntu Focal Server Arm64",
+            "dl_url": "https://github.com/radxa-build/rock-3a/releases/download/20220601-0923/rock-3a-ubuntu-focal-server-arm64-20220601-1033-gpt.img.xz",
+            "dl_size": 346953444,
+            "raw_size": 2000000000,
+            "md5sum": "fb0255faf57d6685c957fe30e5ca2add",
+            "timestamp": 1646139357,
+            "uboot": "rk356x_spi_image_20220210.img"
+        }
+    ],
+    "uboot": [
+        {
+            "name": "rk356x_spi_image_20220210.img",
+            "dl_url": "https://dl.radxa.com/rock3/images/loader/rk356x_spi_image_20220210.img",
+            "dl_size": 16777216,
+            "md5sum": "d93c8e1d9e0a2afd0ac668cdeb660d9d",
+            "timestamp": 1646139357
+        }
+    ]
+}

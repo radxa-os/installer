@@ -24,7 +24,7 @@
         {
             "name": "rockpi4b-uboot-trust-spi_2017.09-2697-ge41695afe3_20201219.img",
             "dl_url": "https://dl.radxa.com/rockpi4/images/loader/spi/rockpi4b-uboot-trust-spi_2017.09-2697-ge41695afe3_20201219.img",
-            "dl_size": 297294,
+            "dl_size": 4194304,
             "md5sum": "38532284d75e614eda2be598e914bacd",
             "timestamp": 1646139357
         }

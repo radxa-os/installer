@@ -1,6 +1,7 @@
 {
-    "update": "2022-04-10",
+    "update": "2022-06-30",
     "boards": {
-        "rockpi4b": "https://github.com/radxa-os/installer/raw/main/assets/rockpi4b.json"
+        "rock4b": "https://github.com/radxa-os/installer/raw/main/assets/rock4b.json",
+        "rock3a": "https://github.com/radxa-os/installer/raw/main/assets/rock3a.json"
     }
 }
