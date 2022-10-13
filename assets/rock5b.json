@@ -2,7 +2,7 @@
     "update": "2022-10-13",
     "images": [
         {
-            "name": "Debian Buster Xfce4 Arm64",
+            "name": "Debian Bullseye Xfce4 Arm64",
             "dl_url": "https://github.com/radxa/debos-radxa/releases/download/20220919-0624/rock-5b-debian-bullseye-xfce4-arm64-20220919-0912-gpt.img.xz",
             "dl_size": 821338120,
             "raw_size": 4000000000,
