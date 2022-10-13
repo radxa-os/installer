@@ -1,0 +1,23 @@
+{
+    "update": "2022-10-13",
+    "images": [
+        {
+            "name": "Debian Buster Xfce4 Arm64",
+            "dl_url": "https://github.com/radxa/debos-radxa/releases/download/20220919-0624/rock-5b-debian-bullseye-xfce4-arm64-20220919-0912-gpt.img.xz",
+            "dl_size": 821338120,
+            "raw_size": 4000000000,
+            "md5sum": "9074a06cb6f603f1632f2a01ccc4b24d",
+            "timestamp": 1665647491,
+            "uboot": "rock-5b-spi-image-g49da44e116d.img"
+        }
+    ],
+    "uboot": [
+        {
+            "name": "rock-5b-spi-image-g49da44e116d.img",
+            "dl_url": "https://dl.radxa.com/rock5/sw/images/loader/rock-5b/rock-5b-spi-image-g49da44e116d.img",
+            "dl_size": 16777216,
+            "md5sum": "46de85de37b8e670883e6f6a8bb95776",
+            "timestamp": 1665647491
+        }
+    ]
+}
